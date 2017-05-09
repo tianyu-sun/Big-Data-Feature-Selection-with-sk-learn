@@ -1,6 +1,5 @@
 # Big-Data-Analytics-HW-1 by F10515011
   The "sklearn_feature_selection.ipynb" file is the feature selection method of using sklearn,and we will draw the conclusion by this.
-  The "entropy_perspective.ipynb" file is a failed try.I wanted to select the features from a entropy perspective,but failed to write myself because I can't discrete the values successfully.And I also found some code in Github several minutes ago,but I failed to apply it to my dataset.
   
   Feature ranking:
 1. feature 306 (0.013455)
@@ -13,7 +12,9 @@
 8. feature 265 (0.005207)
 9. feature 264 (0.004942)
 10. feature 203 (0.004935)
+
 ......
+
 1794. feature 347 (0.000001)
 1795. feature 457 (0.000001)
 1796. feature 72 (0.000000)
