@@ -1,7 +1,7 @@
 # Big-Data-Analytics-HW-1 by F10515011
   The "sklearn_feature_selection.ipynb" file is the feature selection method of using sklearn,and we will draw the conclusion by this.
   
-  Feature ranking:
+Feature ranking:
 1. feature 306 (0.013455)
 2. feature 1497 (0.007056)
 3. feature 199 (0.006417)
