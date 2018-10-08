@@ -34,11 +34,7 @@ Feature ranking:
 
 1803. feature 1049 (0.000000)
 
-     <p align="left">
-     <img src="feature_importance.png" width="600">
-     </p>
-
-
+     ![alt text](feature_importance.png)
 
      A random forest algorithm with 100000 decision trees was run to decide which features are more important,and the result is as above.From this we know that feature 306 can be very important,and there are several features, such as feature 345,feature 1475,feature 1049 and so on, that can be of no use for our work.
 
