@@ -35,7 +35,7 @@ Feature ranking:
 1803. feature 1049 (0.000000)
 
      ```markdown
-     ![alt text](https://github.com/tianyu-sun/Big-Data-Feature-Selection-with-sk-learn/blob/master/feature_importance.png)
+     ![Feature Importance](feature_importance.png)
      ```
 
 
