@@ -35,7 +35,9 @@ Feature ranking:
 1803. feature 1049 (0.000000)
 
      ```markdown
-     ![alt text](\feature_importance.png)
+     ![alt text](https://github.com/tianyu-sun/Big-Data-Feature-Selection-with-sk-learn/blob/master/feature_importance.png)
      ```
+
+
 
      A random forest algorithm with 100000 decision trees was run to decide which features are more important,and the result is as above.From this we know that feature 306 can be very important,and there are several features, such as feature 345,feature 1475,feature 1049 and so on, that can be of no use for our work.
